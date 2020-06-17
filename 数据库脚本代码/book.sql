@@ -1,0 +1,9 @@
+INSERT INTO `book` VALUES ('111', '111', 111, 111, '111', 0);
+INSERT INTO `book` VALUES ('222', '222', 222, 222, '222', 2);
+INSERT INTO `book` VALUES ('333', '333', 333, 333, '333', 333);
+INSERT INTO `book` VALUES ('离散数学', '左孝凌', 28, 978, '无', 9);
+INSERT INTO `book` VALUES ('线性代数', '王强', 22, 3704, '无', 11);
+INSERT INTO `book` VALUES ('大学物理', '骆成洪', 35, 5635, '无', 8);
+INSERT INTO `book` VALUES ('高等数学上', '蒋青', 34, 39662, '无', 43);
+INSERT INTO `book` VALUES ('高等数学下', '蒋青', 40, 39663, '无', 4);
+INSERT INTO `book` VALUES ('马原', '王伟光', 23, 49479, '无', 65);
